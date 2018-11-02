@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.tabrisexample" version="0.1.0">
+  <name>Tabrisexample</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="miller@earthlinginteractive.com">
+    Luke Miller
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+  <plugin anme="cordova-lugin-shake" version="0.6.0" />
+</widget>
